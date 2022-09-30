@@ -1,0 +1,38 @@
+header img{
+  width: 191px;
+  height; 293px;
+  float: left;
+}
+header a{
+  border: 10px solid white;
+  background-color: white;
+  color: 0F2A8B;
+  padding: 5px 0px 5px 0px;
+  border-radius: 30px;
+}
+.Basket: hover{
+  background-color: 0F2A8B;
+  color: white;
+  border: 10px solid white;
+}
+.Ab: hover{
+  background-color: 0F2A8B;
+  color: white;
+  border: 10px solid white;
+}
+.Contact: hover{
+  background-color: 0F2A8B;
+  color: white;
+  border: 10px solid white;
+}
+h1{
+  color:  0F2A8B;
+  text-align: center;
+}
+section{
+justify-content: center;
+}
+div{
+border: 10px dashed 687398;
+color: white;
+}
