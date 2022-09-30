@@ -1,7 +1,10 @@
 header img{
-  width: 191px;
-  height; 293px;
+  width: 91px;
+  height; 193px;
   float: left;
+}
+header{
+  background-color: 0F2A8B;
 }
 header a{
   border: 10px solid white;
@@ -9,6 +12,8 @@ header a{
   color: 0F2A8B;
   padding: 5px 0px 5px 0px;
   border-radius: 30px;
+  text-decoration: none;
+  
 }
 .Basket: hover{
   background-color: 0F2A8B;
