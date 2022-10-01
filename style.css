@@ -38,3 +38,12 @@ div{
 border: 10px dashed 687398;
 color: white;
 }
+footer{
+ background-color: skyblue;
+}
+footer a{
+ background-color: skyblue;
+ border: 20px solid white;
+ color: white;
+ border-radius: 30px;
+}
