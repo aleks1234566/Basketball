@@ -35,8 +35,9 @@ section{
 justify-content: center;
 }
 div{
-border: 10px dashed 687398;
+border: 10px solid blueviolet;
 color: white;
+background-color: blueviolet;
 }
 footer{
  background-color: skyblue;
