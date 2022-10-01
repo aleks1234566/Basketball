@@ -46,4 +46,6 @@ footer a{
  border: 20px solid white;
  color: white;
  border-radius: 30px;
+ padding: 5px;
+ margin: 10px;
 }
