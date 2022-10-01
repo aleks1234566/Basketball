@@ -1,5 +1,4 @@
- 
-}
+
 header{
   background-color: 0F2A8B;
 }
@@ -53,4 +52,8 @@ footer p{
 }
 h2{
 padding-riht: 5px;
+}
+main img{
+ width: 1920px;
+ height: 1080px;
 }
